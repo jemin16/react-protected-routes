@@ -10,35 +10,35 @@ A simple and clean **React + Node.js + MongoDB authentication system** where use
 
 ### **Signup Page**
 
-📷 [Signup Page](./screenshots/SignUp.png)
+![Signup Page](./screenshots/SignUp.png)
 
-### **Signup Page**
+### **Success Signup**
 
-📷 [Success Signup](./screenshots/SuccessSignUp.png)
+![Success Signup](./screenshots/SuccessSignUp.png)
 
-### **Signup Page**
+### **Error Signup**
 
-📷 [Error Signup](./screenshots/ErrorSignUp.png)
-
-### **Login Page**
-
-📷 [Login Page](./screenshots/Login.png)
+![Error Signup](./screenshots/ErrorSignUp.png)
 
 ### **Login Page**
 
-📷 [Success Login](./screenshots/ProtectedDashboard.png)
+![Login Page](./screenshots/Login.png)
 
-### **Login Page**
+### **Success Login**
 
-📷 [Error Login](./screenshots/ErrorLogin.png)
+![Success Login](./screenshots/ProtectedDashboard.png)
+
+### **Error Login**
+
+![Error Login](./screenshots/ErrorLogin.png)
 
 ### **Dashboard Page**
 
-📷 [Protected Dashboard](./screenshots/ProtectedDashboard.png)
+![Protected Dashboard](./screenshots/ProtectedDashboard.png)
 
 ### **MongoDB**
 
-📷 [MongoDB](./screenshots/MongoDB.png)
+![MongoDB](./screenshots/MongoDB.png)
 
 ---
 
